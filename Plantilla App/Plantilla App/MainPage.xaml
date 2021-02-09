@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="Plantilla_App.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Plantilla_App"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{StaticResource MyAcrylic}">
+    
+    <NavigationView x:Name="navMenu" AlwaysShowHeader="False" Header="Acrylic" ItemInvoked="navMenu_ItemInvoked">
+        <NavigationView.MenuItems>
+            <NavigationViewItem x:Name="Btn_Home" Content="Home" IsEnabled="True" IsSelected="False">
+                <NavigationViewItem.Icon>
+                    <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE10F;"></FontIcon>
+                </NavigationViewItem.Icon>
+            </NavigationViewItem>
+            <NavigationViewItem x:Name="Btn_Arduino" Content="Arduino" IsEnabled="True" IsSelected="False" Tapped="Btn_Arduino_Tapped">
+                <NavigationViewItem.Icon>
+                    <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE950;"></FontIcon>
+                </NavigationViewItem.Icon>
+            </NavigationViewItem>
+            <NavigationViewItem x:Name="Btn_Raspberry" Content="Raspberry Pi" IsEnabled="True" IsSelected="False" Tapped="Btn_Raspberry_Tapped">
+                <NavigationViewItem.Icon>
+                    <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xEBD2;"></FontIcon>
+                </NavigationViewItem.Icon>
+            </NavigationViewItem>
+            <NavigationViewItem x:Name="Btn_EEPROM" Content="EEPROM" IsEnabled="True" IsSelected="False" Tapped="Btn_EEPROM_Tapped">
+                <NavigationViewItem.Icon>
+                    <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xED5B;"></FontIcon>
+                </NavigationViewItem.Icon>
+            </NavigationViewItem>
+        </NavigationView.MenuItems>
+        <Grid>
+            <Frame x:Name="Main"></Frame>
+        </Grid>
+    </NavigationView>
+</Page>

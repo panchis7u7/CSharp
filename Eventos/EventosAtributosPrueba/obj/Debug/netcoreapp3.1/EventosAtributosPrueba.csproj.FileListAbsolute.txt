@@ -1,0 +1,11 @@
+E:\Proyectos\C#\Eventos\EventosAtributosPrueba\bin\Debug\netcoreapp3.1\EventosAtributosPrueba.exe
+E:\Proyectos\C#\Eventos\EventosAtributosPrueba\bin\Debug\netcoreapp3.1\EventosAtributosPrueba.deps.json
+E:\Proyectos\C#\Eventos\EventosAtributosPrueba\bin\Debug\netcoreapp3.1\EventosAtributosPrueba.runtimeconfig.json
+E:\Proyectos\C#\Eventos\EventosAtributosPrueba\bin\Debug\netcoreapp3.1\EventosAtributosPrueba.runtimeconfig.dev.json
+E:\Proyectos\C#\Eventos\EventosAtributosPrueba\bin\Debug\netcoreapp3.1\EventosAtributosPrueba.dll
+E:\Proyectos\C#\Eventos\EventosAtributosPrueba\bin\Debug\netcoreapp3.1\EventosAtributosPrueba.pdb
+E:\Proyectos\C#\Eventos\EventosAtributosPrueba\obj\Debug\netcoreapp3.1\EventosAtributosPrueba.csprojAssemblyReference.cache
+E:\Proyectos\C#\Eventos\EventosAtributosPrueba\obj\Debug\netcoreapp3.1\EventosAtributosPrueba.AssemblyInfoInputs.cache
+E:\Proyectos\C#\Eventos\EventosAtributosPrueba\obj\Debug\netcoreapp3.1\EventosAtributosPrueba.AssemblyInfo.cs
+E:\Proyectos\C#\Eventos\EventosAtributosPrueba\obj\Debug\netcoreapp3.1\EventosAtributosPrueba.dll
+E:\Proyectos\C#\Eventos\EventosAtributosPrueba\obj\Debug\netcoreapp3.1\EventosAtributosPrueba.pdb

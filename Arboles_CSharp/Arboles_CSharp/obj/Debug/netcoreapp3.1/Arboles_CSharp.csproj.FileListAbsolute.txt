@@ -1,0 +1,13 @@
+E:\Arboles_CSharp\Arboles_CSharp\bin\Debug\netcoreapp3.1\Arboles_CSharp.exe
+E:\Arboles_CSharp\Arboles_CSharp\bin\Debug\netcoreapp3.1\Arboles_CSharp.deps.json
+E:\Arboles_CSharp\Arboles_CSharp\bin\Debug\netcoreapp3.1\Arboles_CSharp.runtimeconfig.json
+E:\Arboles_CSharp\Arboles_CSharp\bin\Debug\netcoreapp3.1\Arboles_CSharp.runtimeconfig.dev.json
+E:\Arboles_CSharp\Arboles_CSharp\bin\Debug\netcoreapp3.1\Arboles_CSharp.dll
+E:\Arboles_CSharp\Arboles_CSharp\bin\Debug\netcoreapp3.1\Arboles_CSharp.pdb
+E:\Arboles_CSharp\Arboles_CSharp\obj\Debug\netcoreapp3.1\Arboles_CSharp.csprojAssemblyReference.cache
+E:\Arboles_CSharp\Arboles_CSharp\obj\Debug\netcoreapp3.1\Arboles_CSharp.AssemblyInfoInputs.cache
+E:\Arboles_CSharp\Arboles_CSharp\obj\Debug\netcoreapp3.1\Arboles_CSharp.AssemblyInfo.cs
+E:\Arboles_CSharp\Arboles_CSharp\obj\Debug\netcoreapp3.1\Arboles_CSharp.csproj.CoreCompileInputs.cache
+E:\Arboles_CSharp\Arboles_CSharp\obj\Debug\netcoreapp3.1\Arboles_CSharp.dll
+E:\Arboles_CSharp\Arboles_CSharp\obj\Debug\netcoreapp3.1\Arboles_CSharp.pdb
+E:\Arboles_CSharp\Arboles_CSharp\obj\Debug\netcoreapp3.1\Arboles_CSharp.genruntimeconfig.cache

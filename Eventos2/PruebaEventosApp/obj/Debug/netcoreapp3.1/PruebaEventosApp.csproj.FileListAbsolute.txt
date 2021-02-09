@@ -1,0 +1,11 @@
+E:\Proyectos\C#\Eventos2\PruebaEventosApp\bin\Debug\netcoreapp3.1\PruebaEventosApp.exe
+E:\Proyectos\C#\Eventos2\PruebaEventosApp\bin\Debug\netcoreapp3.1\PruebaEventosApp.deps.json
+E:\Proyectos\C#\Eventos2\PruebaEventosApp\bin\Debug\netcoreapp3.1\PruebaEventosApp.runtimeconfig.json
+E:\Proyectos\C#\Eventos2\PruebaEventosApp\bin\Debug\netcoreapp3.1\PruebaEventosApp.runtimeconfig.dev.json
+E:\Proyectos\C#\Eventos2\PruebaEventosApp\bin\Debug\netcoreapp3.1\PruebaEventosApp.dll
+E:\Proyectos\C#\Eventos2\PruebaEventosApp\bin\Debug\netcoreapp3.1\PruebaEventosApp.pdb
+E:\Proyectos\C#\Eventos2\PruebaEventosApp\obj\Debug\netcoreapp3.1\PruebaEventosApp.csprojAssemblyReference.cache
+E:\Proyectos\C#\Eventos2\PruebaEventosApp\obj\Debug\netcoreapp3.1\PruebaEventosApp.AssemblyInfoInputs.cache
+E:\Proyectos\C#\Eventos2\PruebaEventosApp\obj\Debug\netcoreapp3.1\PruebaEventosApp.AssemblyInfo.cs
+E:\Proyectos\C#\Eventos2\PruebaEventosApp\obj\Debug\netcoreapp3.1\PruebaEventosApp.dll
+E:\Proyectos\C#\Eventos2\PruebaEventosApp\obj\Debug\netcoreapp3.1\PruebaEventosApp.pdb

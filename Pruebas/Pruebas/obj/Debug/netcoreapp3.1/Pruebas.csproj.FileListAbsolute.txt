@@ -1,0 +1,13 @@
+E:\Proyectos\C#\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Pruebas.exe
+E:\Proyectos\C#\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Pruebas.deps.json
+E:\Proyectos\C#\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Pruebas.runtimeconfig.json
+E:\Proyectos\C#\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Pruebas.runtimeconfig.dev.json
+E:\Proyectos\C#\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Pruebas.dll
+E:\Proyectos\C#\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Pruebas.pdb
+E:\Proyectos\C#\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.csprojAssemblyReference.cache
+E:\Proyectos\C#\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.csproj.CoreCompileInputs.cache
+E:\Proyectos\C#\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.AssemblyInfoInputs.cache
+E:\Proyectos\C#\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.AssemblyInfo.cs
+E:\Proyectos\C#\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.dll
+E:\Proyectos\C#\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.pdb
+E:\Proyectos\C#\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.genruntimeconfig.cache

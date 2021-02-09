@@ -1,0 +1,9 @@
+E:\Proyectos\C#\PRII_U108_VisualStudio\PRII_U108_VisualStudio\bin\Debug\PRII_U108_VisualStudio.exe.config
+E:\Proyectos\C#\PRII_U108_VisualStudio\PRII_U108_VisualStudio\bin\Debug\PRII_U108_VisualStudio.exe
+E:\Proyectos\C#\PRII_U108_VisualStudio\PRII_U108_VisualStudio\bin\Debug\PRII_U108_VisualStudio.pdb
+E:\Proyectos\C#\PRII_U108_VisualStudio\PRII_U108_VisualStudio\obj\Debug\PRII_U108_VisualStudio.csprojAssemblyReference.cache
+E:\Proyectos\C#\PRII_U108_VisualStudio\PRII_U108_VisualStudio\obj\Debug\PRII_U108_VisualStudio.Form1.resources
+E:\Proyectos\C#\PRII_U108_VisualStudio\PRII_U108_VisualStudio\obj\Debug\PRII_U108_VisualStudio.Properties.Resources.resources
+E:\Proyectos\C#\PRII_U108_VisualStudio\PRII_U108_VisualStudio\obj\Debug\PRII_U108_VisualStudio.csproj.GenerateResource.cache
+E:\Proyectos\C#\PRII_U108_VisualStudio\PRII_U108_VisualStudio\obj\Debug\PRII_U108_VisualStudio.exe
+E:\Proyectos\C#\PRII_U108_VisualStudio\PRII_U108_VisualStudio\obj\Debug\PRII_U108_VisualStudio.pdb

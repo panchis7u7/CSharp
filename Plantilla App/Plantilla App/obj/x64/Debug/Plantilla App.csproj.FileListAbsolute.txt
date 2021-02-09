@@ -1,0 +1,14 @@
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\Plantilla App.csprojAssemblyReference.cache
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\App.g.i.cs
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\App.g.cs
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\App.xaml
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\Arduino_Page.xaml
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\EEPROM_Page.xaml
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\MainPage.xaml
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\RaspberryPi_page.xaml
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\App.xbf
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\Arduino_Page.xbf
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\EEPROM_Page.xbf
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\MainPage.xbf
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\RaspberryPi_page.xbf
+E:\Proyectos\C#\Plantilla App\Plantilla App\obj\x64\Debug\XamlSaveStateFile.xml

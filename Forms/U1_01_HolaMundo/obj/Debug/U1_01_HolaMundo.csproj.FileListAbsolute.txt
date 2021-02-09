@@ -1,0 +1,12 @@
+C:\Users\smadr\source\repos\U1_01_HolaMundo\bin\Debug\U1_01_HolaMundo.exe.config
+C:\Users\smadr\source\repos\U1_01_HolaMundo\bin\Debug\U1_01_HolaMundo.exe
+C:\Users\smadr\source\repos\U1_01_HolaMundo\bin\Debug\U1_01_HolaMundo.pdb
+C:\Users\smadr\source\repos\U1_01_HolaMundo\obj\Debug\U1_01_HolaMundo.csprojAssemblyReference.cache
+C:\Users\smadr\source\repos\U1_01_HolaMundo\obj\Debug\U1_01_HolaMundo.exe
+C:\Users\smadr\source\repos\U1_01_HolaMundo\obj\Debug\U1_01_HolaMundo.pdb
+E:\Proyectos\C#\Forms\U1_01_HolaMundo\obj\Debug\U1_01_HolaMundo.csprojAssemblyReference.cache
+E:\Proyectos\C#\Forms\U1_01_HolaMundo\obj\Debug\U1_01_HolaMundo.exe
+E:\Proyectos\C#\Forms\U1_01_HolaMundo\obj\Debug\U1_01_HolaMundo.pdb
+E:\Proyectos\C#\Forms\U1_01_HolaMundo\bin\Debug\U1_01_HolaMundo.exe.config
+E:\Proyectos\C#\Forms\U1_01_HolaMundo\bin\Debug\U1_01_HolaMundo.exe
+E:\Proyectos\C#\Forms\U1_01_HolaMundo\bin\Debug\U1_01_HolaMundo.pdb
